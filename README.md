@@ -8,6 +8,7 @@
   - ![.NET](https://img.shields.io/badge/.NET-7+-512BD4?style=flat&logo=dotnet&logoColor=white)
   - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring&logoColor=white)
   
 - **Frontend**:
   - ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
