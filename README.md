@@ -27,7 +27,7 @@
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiguelDV84&show_icons=true&theme=radical)
 
 ## 🌐 Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/tu_usuario) 💼
+- [LinkedIn](https://www.linkedin.com/in/miguel-diazvelasco/) 💼
 - [Correo](mailto:miguel.diazv84@gmail.com) 📧
 
 ## 🌱 En constante aprendizaje
