@@ -23,9 +23,6 @@
   - ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📈 Mis estadísticas de GitHub
-![Animacion commits github](https://raw.githubusercontent.com/daniel-oliv3/daniel-oliv3/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/miguel-diazvelasco/) 💼
 - [Correo](mailto:miguel.diazv84@gmail.com) 📧
@@ -37,4 +34,7 @@ Estoy continuamente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 - Explorando el mundo de la **Inteligencia Artificial** y el **Machine Learning**.
 
 ¡Gracias por visitar mi perfil! 😊
+
+![Animacion commits github](https://raw.githubusercontent.com/daniel-oliv3/daniel-oliv3/output/github-contribution-grid-snake.svg)
+
 
