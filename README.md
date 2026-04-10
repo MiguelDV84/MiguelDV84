@@ -24,7 +24,7 @@
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📈 Mis estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiguelDV84&show_icons=true&theme=radical)
+![Animacion commits github](https://raw.githubusercontent.com/daniel-oliv3/daniel-oliv3/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/miguel-diazvelasco/) 💼
